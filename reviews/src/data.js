@@ -1,7 +1,7 @@
 const reviews = [
     {
         id: 1,
-        name: 'susan smith',
+        name: 'Vishruth S',
         job: 'web developer',
         image:
             'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883334/person-1_rfzshl.jpg',
@@ -10,16 +10,16 @@ const reviews = [
     },
     {
         id: 2,
-        name: 'anna johnson',
+        name: 'Lisa VC',
         job: 'web designer',
         image:
             'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883409/person-2_np9x5l.jpg',
         text:
-            'Helvetica artisan kinfolk thundercats lumbersexual blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
+            'Helvetica artisan kinfolk thundercats lumber blue bottle. Disrupt glossier gastropub deep v vice franzen hell of brooklyn twee enamel pin fashion axe.photo booth jean shorts artisan narwhal.',
     },
     {
         id: 3,
-        name: 'peter jones',
+        name: 'Ananya Daniel',
         job: 'intern',
         image:
             'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883417/person-3_ipa0mj.jpg',
@@ -28,7 +28,7 @@ const reviews = [
     },
     {
         id: 4,
-        name: 'bill anderson',
+        name: 'Mr. Poop',
         job: 'the boss',
         image:
             'https://res.cloudinary.com/diqqf3eq2/image/upload/v1586883423/person-4_t9nxjt.jpg',
